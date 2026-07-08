@@ -4,19 +4,33 @@ A real-time computer vision project that detects and visualizes **21 hand landma
 
 ---
 
-## 📸 Preview
+## 📸 Project Demo
 
-> *(Add a screenshot here later.)*
+### Two-Hand Bridge Visualization
+
+![Two Hand Bridge](assets/two_hand_bridge.png)
+
+---
+
+## 📷 More Examples
+
+### 👍 Gesture Detection
+
+![Thumbs Up](assets/thumbs_up_gesture.png)
+
+### ✋ Single Hand Detection
+
+![Single Hand](assets/single_hand_detection.png)
 
 ---
 
 ## ✨ Features
 
 - Real-time hand landmark detection
-- Detects up to two hands
-- 21 landmarks per hand
+- Detects up to two hands simultaneously
+- Tracks 21 landmarks for each hand
 - Custom 3D-style visualization
-- Interactive finger connections
+- Interactive finger bridge connections
 - Real-time webcam processing
 
 ---
@@ -30,34 +44,21 @@ A real-time computer vision project that detects and visualizes **21 hand landma
 
 ---
 
-## 📂 Project Structure
-
-```
-hand-landmark-detection
-│
-├── main.py
-├── requirements.txt
-├── README.md
-└── hand_landmarker.task
-```
-
----
-
 ## 🚀 Installation
 
-Clone the repository
+Clone the repository:
 
 ```bash
 git clone https://github.com/krishna03-23-085/hand-landmark-detection.git
 ```
 
-Install dependencies
+Install dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Run the project
+Run the project:
 
 ```bash
 python main.py
@@ -65,16 +66,6 @@ python main.py
 
 ---
 
-## 🎯 Applications
-
-- Human Computer Interaction
-- Gesture Recognition
-- AR/VR
-- Robotics
-- AI Vision Systems
-
----
-
 ## 👨‍💻 Author
 
-Krishna Singh
+**Krishna Singh**
